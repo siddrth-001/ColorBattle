@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class ColorChecker : MonoBehaviour
 {
@@ -108,5 +109,15 @@ void Update()
  }
 
 #endregion WrongTile
+
+
+#region ReStart
+
+public void GameReStart()
+{
+    SceneManager.LoadScene(0);
+} 
+
+#endregion ReStart
 
 }

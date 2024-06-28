@@ -22,6 +22,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
   sceneClasses:
     Assets/MainGameScene/SampleScene.unity:
     - Class: 1
@@ -55,31 +56,33 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1540}
+      Script: {instanceID: 1542}
     - Class: 114
-      Script: {instanceID: 1910}
+      Script: {instanceID: 1912}
     - Class: 114
-      Script: {instanceID: 2396}
+      Script: {instanceID: 2398}
     - Class: 114
-      Script: {instanceID: 2926}
+      Script: {instanceID: 2414}
     - Class: 114
-      Script: {instanceID: 2984}
+      Script: {instanceID: 2928}
     - Class: 114
-      Script: {instanceID: 3136}
+      Script: {instanceID: 2986}
     - Class: 114
-      Script: {instanceID: 3168}
+      Script: {instanceID: 3138}
     - Class: 114
-      Script: {instanceID: 3196}
+      Script: {instanceID: 3170}
     - Class: 114
-      Script: {instanceID: 3412}
+      Script: {instanceID: 3198}
     - Class: 114
-      Script: {instanceID: 3482}
+      Script: {instanceID: 3414}
     - Class: 114
-      Script: {instanceID: 3622}
+      Script: {instanceID: 3484}
     - Class: 114
-      Script: {instanceID: 3814}
+      Script: {instanceID: 3624}
     - Class: 114
-      Script: {instanceID: 3980}
+      Script: {instanceID: 3816}
+    - Class: 114
+      Script: {instanceID: 3982}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
