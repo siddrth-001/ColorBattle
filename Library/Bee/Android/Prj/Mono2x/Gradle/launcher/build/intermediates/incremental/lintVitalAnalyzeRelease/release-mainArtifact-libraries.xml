@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="D:\UNITY\Color BAttle\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="D:\UNITY\Color BAttle\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\0e420f14ab6a5b0a88952bc5ad6d2b24\transformed\out\jars\classes.jar;D:\UNITY\Color BAttle\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\0e420f14ab6a5b0a88952bc5ad6d2b24\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\UNITY\Color BAttle\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\0e420f14ab6a5b0a88952bc5ad6d2b24\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\UNITY\Color BAttle\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\UNITY\Color BAttle\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\UNITY\Color BAttle\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
